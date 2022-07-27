@@ -4,7 +4,7 @@
 
 Source code accompanying O'Reilly book: <br/>
 **Title**: Machine Learning Design Patterns <br/>
-**Authors**: Valliappa (Lak) Lakshmanan, Sara Robinson, Michael Munn <br/>
+**Authors** : Chameera De Silva <br/>
 
 <img src="mldp_cover_color.jpg" height="300"> https://www.oreilly.com/library/view/machine-learning-design/9781098115777/ </img> <br/>
 
